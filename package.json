@@ -1,0 +1,16 @@
+{
+  "name": "simple-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://candraKriswinarto.github.io/simpleWebsite",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
